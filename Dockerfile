@@ -22,4 +22,4 @@ ENV DATABASE_URL="postgresql://wcruz:QdRmLDrQb78oXKKByl8k484k2aXdBs59@dpg-cvmpjc
 EXPOSE 8080
 
 # Comando de inicio
-CMD ["app.run(host='0.0.0.0', port=8000"]
+CMD ["app.run(host='0.0.0.0', port=5000"]
